@@ -1,0 +1,13 @@
+{
+  "name": "efty-dual-api-gateway",
+  "version": "1.0.0",
+  "description": "Concurrent Dual API Caller by Efty",
+  "main": "api/index.js",
+  "scripts": {
+    "start": "node api/index.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "express": "^4.21.2"
+  }
+}
